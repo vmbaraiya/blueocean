@@ -42,7 +42,7 @@ sudo apt-get install -y jenkins
  Install BlueOcean Plugin and configure scan repository triggers 
   
  ```GUI
-  * check the box Periodically if not otherwise run
+  * - [x] check the box Periodically if not otherwise run
   * provide interval to check for any changes ( example 1 minute)
  ```
  
