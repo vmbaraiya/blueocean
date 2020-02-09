@@ -32,7 +32,7 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sou
 sudo apt-get install -y jenkins
 ```
 
- Access jenkins using  [JenkinsURL](http://<hostname>:8080) - http://<hostname>:8080
+ Access jenkins using  [JenkinsURL](http://<hostname>:8080) - http://hostname:8080
  Access the Admin password from secret file:
 
 ```shell
