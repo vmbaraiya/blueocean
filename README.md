@@ -115,7 +115,7 @@ pipeline {
       }
 ```
 Here is the snapshot my blueocean pipeline:
-![Pipeline Output]https://github.com/vmbaraiya/blueocean/blob/master/output.png
+![Pipeline Output](https://github.com/vmbaraiya/blueocean/blob/master/output.png)
 
 ## Reference Documents for more details:
 
