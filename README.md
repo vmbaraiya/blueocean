@@ -32,7 +32,7 @@ sudo sh -c 'echo deb https://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sou
 sudo apt-get install -y jenkins
 ```
 
- Access jenkins using * [JenkinsURL](http://<hostname>:8080) - http://<hostname>:8080
+ Access jenkins using  [JenkinsURL](http://<hostname>:8080) - http://<hostname>:8080
  Access the Admin password from secret file:
 
 ```shell
@@ -51,7 +51,7 @@ sudo apt-get install -y jenkins
  Create Jenkinsfile with the following content in the repository and commit.
 
 ```groovy
-Pipeline {
+pipeline {
   agent any 
   stages {
     stage('Build') {
