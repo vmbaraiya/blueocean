@@ -1,5 +1,5 @@
 
-# Cloud DevOps Engineer - BLUEOCEAN PIPELINE 
+# Cloud DevOps Engineer - JENKINS PIPELINE FOR AWS
 
 The blueocean project to practice skills with deployment and pipelines using Jenkins Blueocean.
 
@@ -122,5 +122,7 @@ Here is the snapshot my blueocean pipeline:
 * [Setting up a CI/CD pipeline by integrating Jenkins with AWS CodeBuild and AWS CodeDeploy](https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/) 
 * [Developing an AWS CodePipeline – Creating a Jenkins Pipeline to Build and Test](https://blog.toadworld.com/2017/12/30/developing-an-aws-codepipeline-creating-a-jenkins-pipeline-to-build-and-test) 
 * [CI/CD Pipeline with Jenkins on AWS](https://medium.com/faun/ci-cd-pipeline-with-jenkins-and-aws-s3-c08a3656d381) 
+* [Canary Release](https://martinfowler.com/bliki/CanaryRelease.html)
+* [Blue-Green Deployment](https://aws.amazon.com/quickstart/architecture/blue-green-deployment/)
 
 
