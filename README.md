@@ -124,5 +124,7 @@ Here is the snapshot my blueocean pipeline:
 * [CI/CD Pipeline with Jenkins on AWS](https://medium.com/faun/ci-cd-pipeline-with-jenkins-and-aws-s3-c08a3656d381) 
 * [Canary Release](https://martinfowler.com/bliki/CanaryRelease.html)
 * [Blue-Green Deployment](https://aws.amazon.com/quickstart/architecture/blue-green-deployment/)
+*  [S3Upload](https://github.com/jenkinsci/pipeline-aws-plugin#s3upload)
+* [withAWS](https://github.com/jenkinsci/pipeline-aws-plugin#withaws)
 
 
